@@ -4,7 +4,5 @@ O site mantém os contatos salvos em um banco de dados, e para cadastrar ou edit
 Para isso tem a opção de criar conta, e fazer login.<br><br>
 Lembrando que o foco desse site era a parte do back-end, sendo assim todo o front-end foi feito somente o necessário para utilização do site.
 
-Caso queira testar o site, fique a vontade: 
-
 
 <p> Feito por André Mattos <a target="_blank" href="https://www.linkedin.com/in/andre-mtts/">Segue meu Linkedin</a></p>
